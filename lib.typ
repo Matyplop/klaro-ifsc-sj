@@ -46,7 +46,7 @@
   }
 
   // TODO: Verificar maneira melhor de alterar espaçamento entre titulo e corpo
-  outline(title: [Sumário #v(1em)], indent: 2em)
+  outline(title: [MATIAS #v(1em)], indent: 2em)
 
   pagebreak()
 
